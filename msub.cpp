@@ -2,10 +2,6 @@
 
 using namespace std;
 
- // } Driver Code Ends
-
-
-//User function template for C++
 class Solution{
 public:
 
@@ -24,9 +20,6 @@ public:
         return ans;
 	}
 };
-
-// { Driver Code Starts.
-
 int main() {
     int t;
     cin >> t;
@@ -42,4 +35,4 @@ int main() {
         cout << ans << "\n";
     }
     return 0;
-}  // } Driver Code Ends
+} 
